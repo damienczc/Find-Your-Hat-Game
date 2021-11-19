@@ -9,16 +9,16 @@ What did you like about this project?
 
 What did you struggle with in this project?
 
-I did  in a manner that made me in a loop over and over again because I forgot to go steps by steps in plain english to fulfill the criteria needed
+- I did  in a manner that made me in a loop over and over again because I forgot to go steps by steps in plain english to fulfill the criteria needed.
 
-I jump around too many parts to even understand the project and code it.
+- I jump around too many parts to even understand the project and code it.
 
 
 
 What would make your experience with this assessment better?
 
-I will have done it over again by reading it from top to the bottom then start coding.
+- I will have done it over again by reading it from top to the bottom then start coding.
 
-I realized if I go all over the place I could not understand the feature at all.
+- I realized if I go all over the place I could not understand the feature at all.
 
-Great Learning process.
+- Great Learning process.
