@@ -1,24 +1,21 @@
-# Javascript_Assessment
-What did you like about this project?
-- I think this project itself made myself recall back on what we have learnt so far in this course.
+# FIND YOUR HAT TERMINAL GAME
 
-- It's a great way to see if our understanding of all the functions we have learnt so far.
+"Find your hat" is an interactive terminal game.
 
-- Its challenging but fun.
+CAPSTONE PROJECT BY CODEACADEMY
 
+# Technologies :
+JavaScript , Node JS
 
-What did you struggle with in this project?
+# Instructions 
 
-- I did  in a manner that made me in a loop over and over again because I forgot to go steps by steps in plain english to fulfill the criteria needed.
-
-- I jump around too many parts to even understand the project and code it.
+As the player(*), you have lost your hat(^) in a field(░) full of holes(O), and you must navigate back to it without falling down one of the holes or stepping outside of the field.
 
 
+Game preview
 
-What would make your experience with this assessment better?
+![image](https://user-images.githubusercontent.com/87848190/163105255-bdac2e39-3a6d-4ba2-97c6-2d5e83dc2be6.png)
 
-- I will have done it over again by reading it from top to the bottom then start coding.
 
-- I realized if I go all over the place I could not understand the feature at all.
-
-- Great Learning process.
+# To start game
+Change directory to the folder and input in terminal node main.js
